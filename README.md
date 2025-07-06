@@ -2,14 +2,6 @@
 
 <h3 align="center">Hi, I'm Des!</h3>
 
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="80" alt="Animated gif" />
-</p>
-
-<br>
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34" alt="Figma logo" />
   &nbsp;&nbsp;
